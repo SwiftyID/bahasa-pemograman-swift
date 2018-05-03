@@ -16,5 +16,5 @@ Kode Swift dikompilasi dan dioptimalkan untuk memaksimalkan perangkat keras mode
 
 Swift mengkombinasikan inferensi tipe dan pencocokan pola dengan sintaks yang modern, ringan, memungkinkan ide-ide rumit untuk diungkapkan secara jelas dan ringkas. Hasilnya, kode tidak hanya lebih mudah ditulis, tapi juga lebih mudah dibaca dan dipelihara.
 
-Swift telah bertahun-tahun dibangun, dan terus berevolusi dengan fitur-fitur dan kemampuan-kemampuan baru. Tujuan kami untuk Swift ambisius. Kami tidak sabar untuk melihat Anda berkreasi dengannya.
+Swift telah bertahun-tahun dikembangkan, dan terus berevolusi dengan fitur-fitur dan kemampuan-kemampuan baru. Tujuan kami untuk Swift ambisius. Kami tidak sabar untuk melihat Anda berkreasi dengannya.
 
