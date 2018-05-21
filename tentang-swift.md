@@ -1,6 +1,6 @@
 # Tentang Swift
 
-Swift merupakan cara ajar untuk menulis perangkat lunak, baik itu untuk telepon pintar, komputer desktop, server, atau benda lain yang bisa menjalankan kode. Swift aman, cepat, dan bahasa pemrograman interaktif yang menggabungkan pemikiran bahasa modern dengan kebijaksanaan yang luas dari budaya teknik Apple dan beraneka macam kontribusi dari komunitas open source. Kompilernya di optimalkan untuk performa dan bahasanya di optimalkan untuk pengembangan, tanpa mengkompromosikan salah satunya.
+Swift merupakan cara menulis perangkat lunak yang fantastis, baik itu untuk telepon pintar, komputer desktop, komputer server, atau apapun yang bisa menjalankan kode. Swift aman, cepat, dan merupakan bahasa pemrograman interaktif yang menggabungkan pemikiran bahasa modern dengan kebijaksanaan yang luas dari budaya teknik Apple dan beraneka macam kontribusi dari komunitas open source. Kompilernya di optimalkan untuk performa dan bahasanya di optimalkan untuk pengembangan, tanpa mengkompromosikan salah satunya.
 
 Swift ramah untuk pemrogram pemula. Swift bahasa berkelas industri yang sama ekspresif dan sama menariknya dengan bahasa skrip. Menulis kode Swift di playground memungkinkan kamu bereksperimen dengan kode dan melihat hasilnya secara langsung, tanpa perlu membangun dan menjalankan aplikasi.
 
